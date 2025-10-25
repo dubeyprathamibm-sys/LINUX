@@ -1,8 +1,6 @@
 
 
-Welcome to Day 1 of Linux learning! Below are **30 beginner-friendly Linux commands** with descriptions and practical use cases.
 
----
 
 ## ✅ System Information Commands
 
